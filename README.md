@@ -103,17 +103,6 @@ Full Stack Developer • AI Enthusiast • Future Quant Developer
 
 ---
 
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=OmNagre04&label=Profile%20Views&color=0e75b6&style=flat" />
-
-</p>
-
----
-
-<p align="center">
 
 ⭐ From <b>Om Nagre</b>
 
