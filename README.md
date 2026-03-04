@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&text=Om%20Nagre&fontSize=65&fontAlign=50&fontAlignY=40&animation=twinkling&desc=Full%20Stack%20Developer%20•%20AI%20Engineer%20•%20Future%20HFT%20Developer&descAlignY=60&descSize=18"/>
+</p>
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
+</p>
+
 <!-- PROFILE HEADER -->
 
 <h1 align="center">
